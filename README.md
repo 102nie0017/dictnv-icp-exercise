@@ -1,1 +1,0 @@
-# dictnv-icp-exercise
